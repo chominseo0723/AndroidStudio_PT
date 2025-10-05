@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">FisrtAndroidApp</string>
+    <string name="app_name">FirstAndroidApp</string>
+
+    <string name="title">안드로이드 스튜디오 연습</string>
+    <string name="desc">회원님의 소중한 정보 보호를 위해, 카카오계정의 현재 비밀번호를 확인해 주세요.</string>
+    <string name="email_hint">kkang104@gmail.com</string>
+    <string name="password_hint">비밀번호</string>
+    <string name="password_helper">비밀번호가 기억나지 않으세요?</string>
+    <string name="confirm">확인</string>
 </resources>
